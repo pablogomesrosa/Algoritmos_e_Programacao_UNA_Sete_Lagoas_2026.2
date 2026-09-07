@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfac24f3-ec2b-4b81-afe3-07de9b3c1d00" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000004389318504" />
+      <entry key="S5" value="1.0028736541216672" />
+      <entry key="S10" value="1.0589937640177907" />
+      <entry key="S30" value="1.9227540104925427" />
+      <entry key="S60" value="3.7148027119440985" />
+      <entry key="M2" value="6.567910010284728" />
+      <entry key="M5" value="13.67997479137711" />
+      <entry key="M10" value="24.425511175536244" />
+      <entry key="M15" value="34.62316201718321" />
+      <entry key="M30" value="58.78999452597135" />
+      <entry key="H1" value="84.43881577971328" />
+      <entry key="H2" value="104.13391345362571" />
+      <entry key="H4" value="116.50578956888214" />
+      <entry key="D1" value="128.42023187005753" />
+      <entry key="W1" value="130.62720510060862" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.487723701643124E-4" />
+      <entry key="MS500" value="0.23036604654967596" />
+      <entry key="S2" value="0.6927951478397384" />
+      <entry key="S5" value="0.8660876958424862" />
+      <entry key="S10" value="0.9857620264349558" />
+      <entry key="S30" value="1.8848134273287604" />
+      <entry key="S60" value="3.674599985476019" />
+      <entry key="M2" value="6.524721326161542" />
+      <entry key="M5" value="13.640391443856595" />
+      <entry key="M10" value="24.390279330076282" />
+      <entry key="M15" value="34.58961106151463" />
+      <entry key="M30" value="58.76057888445926" />
+      <entry key="H1" value="84.41710349435583" />
+      <entry key="H2" value="104.12031445922865" />
+      <entry key="H4" value="116.49812094745296" />
+      <entry key="D1" value="128.41881356945277" />
+      <entry key="W1" value="130.6269987671243" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3J0qRE3KFPm77K2oFQnHmA8iZwI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Pablo/OneDrive/Desktop/PabloExercicio07Casa02/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfac24f3-ec2b-4b81-afe3-07de9b3c1d00" name="Changes" comment="" />
+      <created>1788808324344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788808324344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
