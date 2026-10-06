@@ -49,7 +49,7 @@ public class Main {
         double mediasalariopopulacao = salariototal / populacao;
         System.out.println("População: " + populacao + " habitantes.");
         System.out.printf("Média do salário da população: R$%.2f\n",mediasalariopopulacao);
-        int mediafilhos = filhostotal / populacao;
+        double mediafilhos = (double) filhostotal / populacao;
         System.out.println("Média do número de filhos: " + mediafilhos);
         System.out.println("Maior salário coletado: R$" + maiorsalario);
         double salariominimo3 = (double) salariominimo2 / populacao * 100;
